@@ -46,5 +46,9 @@ Currently the resource succeeds even if the `upload-coverage` step fails, due to
 * Ian Delahorne <ian.delahorne@gmail.com>
 * Sebastian Vidrio <svidrio@gmail.com>
 
+# Contributing
+
+Please raise a [Github issue](https://github.com/lflux/codeclimate-resource/issues) if you encounter problems with this resource
+
 # License
 Licensed under the Apache 2.0 License which can be found in [LICENSE](LICENSE) file
